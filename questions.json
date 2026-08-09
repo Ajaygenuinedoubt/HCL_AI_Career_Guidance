@@ -1,0 +1,4 @@
+[
+  {"question":"What skills does an ML Engineer need?","expected_source":"roles.csv"},
+  {"question":"What is missing for a Data Scientist path?","expected_source":"role_skills.csv"}
+]
